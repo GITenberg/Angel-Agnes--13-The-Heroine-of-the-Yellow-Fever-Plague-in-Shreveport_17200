@@ -1,0 +1,28 @@
+_repo: Angel-Agnes--13-The-Heroine-of-the-Yellow-Fever-Plague-in-Shreveport_17200
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Alexander, Charles Wesley
+    alias: Bradshaw, Wesley
+    birthdate: 1837
+    deathdate: 1927
+    gutenberg_agent_id: '7215'
+    url: http://www.gutenberg.org/2009/agents/7215
+description: Images of the original pages are available through the Wright American
+  Fiction Project of the Library Electronic Text Service of Indiana University. http://www.letrs.indiana.edu/web/w/wright2/
+gutenberg_issued: '2005-12-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17200'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Yellow Fever -- Louisiana -- Shreveport -- 1873 -- Fiction'
+title: "Angel Agnes\r\nThe Heroine of the Yellow Fever Plague in Shreveport"
+url: http://www.gutenberg.org/ebooks/17200
